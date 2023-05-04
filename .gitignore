@@ -5,6 +5,7 @@ HELP.md
 !**/src/test/**/build/
 
 ### STS ###
+
 .apt_generated
 .classpath
 .factorypath
@@ -17,6 +18,7 @@ bin/
 !**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
+build/
 .idea
 *.iws
 *.iml
